@@ -23,7 +23,7 @@ bus_schedule_holiday_to_Minsk = {...}
 bot = telebot.TeleBot(token=os.environ.get('token'))
 
 
-#bot = telebot.TeleBot('7537092117:AAHeVSZK5AFO_FWzRZf4B6BuPmNKiEuUBHQ')
+#bot = telebot.TeleBot('')
 
 
 bus_schedule_weekday_from_Minsk = {
